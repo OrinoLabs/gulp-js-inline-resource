@@ -1,0 +1,1 @@
+# gulp-js-inline-resource
