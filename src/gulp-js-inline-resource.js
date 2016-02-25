@@ -6,7 +6,7 @@ var VinylFile = require('vinyl');
 
 var gulpJsResource = module.exports = {};
 
-var OUTPUT_FILE_HEADER = '// GENERATED FILE (gulp-js-resource)\n';
+var OUTPUT_FILE_HEADER = '// GENERATED FILE (gulp-js-inline-resource)\n';
 
 
 /**
