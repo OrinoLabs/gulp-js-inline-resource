@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/OrinoLabs/gulp-js-inline-resource/issues"
   },
-  "homepage": "https://github.com/OrinoLabs/gulp-js-inline-resource"
+  "homepage": "https://github.com/OrinoLabs/gulp-js-inline-resource",
+  "dependencies": {
+    "vinyl": "^1.1.1"
+  }
 }
