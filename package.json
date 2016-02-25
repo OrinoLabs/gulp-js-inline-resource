@@ -1,0 +1,19 @@
+{
+  "name": "gulp-js-inline-resource",
+  "version": "0.1.0",
+  "description": "",
+  "main": "src/gulp-js-inline-resouce.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OrinoLabs/gulp-js-inline-resource.git"
+  },
+  "author": "Michael Bürge <mib@orino.ch>",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/OrinoLabs/gulp-js-inline-resource/issues"
+  },
+  "homepage": "https://github.com/OrinoLabs/gulp-js-inline-resource"
+}
