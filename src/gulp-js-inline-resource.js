@@ -103,9 +103,9 @@ gulpJsResource.multiple = function(opt_opts) {
 
     if (opts.closureProvideSymbol) {
       out.push('goog.provide(\'', opts.closureProvideSymbol, '\');\n');
-      var lhs = opts.closureProvideSymbol + ' = ';
+      var lhs = opts.closureProvideSymbol;
     } else if (opts.symbol) {
-      var lhs = 'var ' + opts.symbol + ' = ';
+      var lhs = 'var ' + opts.symbol;
     } else {
       callback(new Error('No symbol name provided.'));
     }
